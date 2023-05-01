@@ -4,7 +4,7 @@
 <br/>
 
 
-<a href="[https://twitter.com/sakigo_09](https://twitter.com/BraxWiper?t=ZJW47DgtrTKekt0xvwGKlQ&s=08)">
+<a href="https://twitter.com/BraxWiper?t=ZJW47DgtrTKekt0xvwGKlQ&s=08">
 <img align="left" alt="Krish Goyani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/krish-goyani-433969268/">
