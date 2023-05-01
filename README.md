@@ -17,8 +17,11 @@
 
 <br />
 
-Hi,I'm Krish Goyani🙌,About me A promising data scientist who has a strong desire to become well-known in the tech industry. Who is becoming better before each sunset.Data The new oil term 'Data' is my genuine love, as exist real-world issues that beg me to fix them, which is why I chose data science as my passion.❤✌
+Hi,I'm Krish Goyani🙌,About me A promising data scientist who has a strong desire to become well-known in the tech industry. Who is becoming better before each sunset. Who just in love with the community work and open source but currently increasing my knoledge to serve and help best of the best.❤✌
 
+**Why i am in this Field?🤔**
+
+"Data The new oil" term 'Data' is my genuine love💝, as exist real-world issues that beg me to fix them, which is why I chose data science as my passion.I just love to work with problems and data.Also i want't to update daily myself and by domain knoledge i want to create much and more usefull stuffs.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
 
