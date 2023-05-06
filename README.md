@@ -5,7 +5,7 @@
 
 
 <a href="https://twitter.com/BraxWiper?t=ZJW47DgtrTKekt0xvwGKlQ&s=08">
-<img align="left" alt="Krish Goyani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Krish Goyani | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
 </a>
 <a href="https://www.linkedin.com/in/krish-goyani-433969268/">
 <img align="left" alt="Krish Goyani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
