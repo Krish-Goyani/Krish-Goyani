@@ -8,13 +8,13 @@
 <img align="left" alt="Krish Goyani | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
 </a>
 <a href="https://www.linkedin.com/in/krish-goyani-433969268/">
-<img align="left" alt="Krish Goyani" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
+<img align="left" alt="Krish Goyani | linkedin" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
 </a>
 <a href="https://medium.com/@krishgoyani1137">
-<img align="left" alt="Krish Goyani" width="22px" src="https://img.icons8.com/?size=512&id=XVNvUWCvvlD9&format=png" />
+<img align="left" alt="Krish Goyani | medium" width="22px" src="https://img.icons8.com/?size=2x&id=sKAHLBqP186C&format=png" />
 </a>
 <a href="https://www.kaggle.com/krishgoyani">
-<img align="left" alt="Krish Goyani" width="22px" src="https://img.icons8.com/?size=512&id=s1rM4KTx2Huf&format=png" />
+<img align="left" alt="Krish Goyani | kaggle" width="22px" src="https://img.icons8.com/?size=512&id=s1rM4KTx2Huf&format=png" />
 </a>
 <br />
 
@@ -50,4 +50,5 @@ Hi,I'm Krish Goyani🙌,About me A promising data scientist who has a strong des
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=512&id=XVNvUWCvvlD9&format=png"></code>
 
