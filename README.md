@@ -50,5 +50,7 @@ Hi,I'm Krish Goyani🙌,About me A promising data scientist who has a strong des
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=512&id=XVNvUWCvvlD9&format=png"></code>
-
+<code><img height="20" src="https://img.icons8.com/?size=2x&id=13679&format=png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=512&id=70667&format=png"></code>
+<code><img height="20" src="https://img.icons8.com/?size=512&id=117561&format=png"></code>
