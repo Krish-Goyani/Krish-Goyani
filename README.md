@@ -1,18 +1,14 @@
 
-### Hello To Everyone.👋 It's [Krish!](https://my-personal-website.goyani.repl.co/)
+### Hello To Everyone.👋 It's [Krish!](https://www.datascienceportfol.io/Krish_Goyani)
 
 <br/>
 
 
-<a href="https://twitter.com/BraxWiper?t=ZJW47DgtrTKekt0xvwGKlQ&s=08">
-<img align="left" alt="Krish Goyani | Twitter" width="22px" src="https://img.icons8.com/?size=512&id=13963&format=png" />
-</a>
+
 <a href="https://www.linkedin.com/in/krish-goyani-433969268/">
 <img align="left" alt="Krish Goyani | linkedin" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
 </a>
-<a href="https://medium.com/@krishgoyani1137">
-<img align="left" alt="Krish Goyani | medium" width="22px" src="https://img.icons8.com/?size=2x&id=sKAHLBqP186C&format=png" />
-</a>
+
 <a href="https://www.kaggle.com/krishgoyani">
 <img align="left" alt="Krish Goyani | kaggle" width="22px" src="https://img.icons8.com/?size=512&id=s1rM4KTx2Huf&format=png" />
 </a>
@@ -36,8 +32,7 @@ Hi,I'm Krish Goyani🙌,About me A promising data scientist who has a strong des
 - 👯 Part of Data Sci Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@krishgoyani1137)
-- 📝[Portfolio](https://replit.com/@goyani)
+- 📝[Portfolio](https://www.datascienceportfol.io/Krish_Goyani)
 
 
 
