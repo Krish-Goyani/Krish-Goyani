@@ -1,51 +1,40 @@
+# Krish Goyani
 
-### Hello To Everyone.👋 It's [Krish!](https://www.datascienceportfol.io/Krish_Goyani)
+**AI / Agent Engineer @ [Rocket](https://www.rocket.new)** — I build the systems that write code for you.
 
-<br/>
+I design multi-agent systems from first principles and own them end-to-end — reasoning loops, retrieval, evals, cost, and latency. At Rocket I built and own **Agent v2**, the core engine behind every code-generation task on the platform.
 
+<a href="https://www.linkedin.com/in/krish-goyani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.datascienceportfol.io/Krish_Goyani"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="https://www.kaggle.com/krishgoyani"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 
+---
 
-<a href="https://www.linkedin.com/in/krish-goyani-433969268/">
-<img align="left" alt="Krish Goyani | linkedin" width="22px" src="https://img.icons8.com/?size=512&id=13930&format=png" />
-</a>
+### What I work on
 
-<a href="https://www.kaggle.com/krishgoyani">
-<img align="left" alt="Krish Goyani | kaggle" width="22px" src="https://img.icons8.com/?size=512&id=s1rM4KTx2Huf&format=png" />
-</a>
-<br />
+- **Multi-agent systems** — with and without frameworks; I reach for framework-free, first-principles architecture when the problem needs control the framework won't give.
+- **Agentic infrastructure** — long-running agent harnesses, self-healing reasoning loops, context engineering & offloading.
+- **Production reliability** — making AI-generated code stop looking and breaking like AI, through quality constraints verified the way build errors are.
+- **Code-gen systems** — a URL-to-Next.js website redesign engine, and a dynamic Connectors architecture where new integrations plug in without rearchitecting.
 
-<br />
+### How I work
 
-Hi,I'm Krish Goyani🙌,About me A promising data scientist who has a strong desire to become well-known in the tech industry. Who is becoming better before each sunset. Who just in love with the community work and open source but currently increasing my knoledge to serve and help best of the best.❤✌
+Stack-agnostic by design. I treat languages as interchangeable and lean on agentic tooling (Cursor, Claude Code) to drop into any codebase and ship — the constant is architecture and judgment, not syntax.
 
-**Why i am in this Field?🤔**
+---
 
-"Data The new oil" term 'Data' is my genuine love💝, as exist real-world issues that beg me to fix them, which is why I chose data science as my passion.I just love to work with problems and data.Also i want't to update daily myself and by domain knoledge i want to create much and more usefull stuffs.
+### Tech
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" />
+**Languages** Python · TypeScript · Go · SQL
 
+**AI / Agents** Multi-agent systems · MCP · RAG · context engineering · evals
 
-**Talking about Personal Stuffs:**
+**LLMs** Anthropic · OpenAI · Gemini · open-source
 
-- 🔭 I’m currently Studying at GEC,Bvn.
-- 🌱 I’m currently learning Data Science.
-- 👯 Part of Data Sci Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- 📝[Portfolio](https://www.datascienceportfol.io/Krish_Goyani)
+**Data / Retrieval** Pinecone · MongoDB · Tree-sitter · embeddings
 
+**Frameworks** FastAPI · Next.js · React · PyTorch
 
+---
 
-
-
-**Languages and Tools:**
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=2x&id=13679&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=512&id=70667&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=512&id=117561&format=png"></code>
+<sub>Currently building agentic systems at Rocket. Open to conversations about hard problems in AI infrastructure.</sub>
